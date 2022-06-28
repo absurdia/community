@@ -6,3 +6,4 @@ Seen a bug in one of our services? A problem with documentation? Need a feature?
 
 Have any questions or comments about items on the roadmap? Suggestions for how the products should be improved? Want to discuss those improvements with the community, including members of Absurdia's team? Share your feedback via :speaking_head: [discussions](https://github.com/absurdia/community/discussions).
 
+#### :point_right: You can also join our [Discord server](https://discord.gg/SGsKFbf5xr)!
